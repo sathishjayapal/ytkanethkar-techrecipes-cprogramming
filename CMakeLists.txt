@@ -3,4 +3,4 @@ project(ytkanethkar C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(ytkanethkar main.c)
+add_executable(ytkanethkar pnr_calc.c)
